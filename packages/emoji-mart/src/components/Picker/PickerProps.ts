@@ -54,6 +54,8 @@ export default {
       'uk',
       'vi',
       'zh',
+      'th',
+      'bn',
     ],
   },
   maxFrequentRows: {
